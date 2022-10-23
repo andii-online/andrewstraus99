@@ -3,3 +3,4 @@ hi, andii here. i'm interested in:
 - making the internet free and accessible
 - operating systems
 - sustainability
+- games
